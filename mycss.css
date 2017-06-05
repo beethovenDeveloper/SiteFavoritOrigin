@@ -1,0 +1,229 @@
+body{
+	background:url(1.jpg) no-repeat;
+	background-size: 100% 100%;
+	background-color:black;
+	background-attachment: fixed;
+}
+
+.buttonFruct{
+	width:200px;
+	height:45px;
+	box-shadow:0 0 10px rgba(0,0,0,0.5);
+	margin-left:-500px;
+	font-size:24px;
+	padding-top:1px;
+	border-radius:20px;
+}
+
+.buttonFruct:hover{
+	box-shadow:0 0 30px rgba(0,0,0,0.5);
+	background-color: rgba(144, 238,144, 0.3);
+}
+
+.buttonZerno{
+	width:200px;
+	height:45px;
+	box-shadow:0 0 10px rgba(0,0,0,0.5);
+	margin-top:-45px;
+	font-size:24px;
+	padding-top:1px;
+	border-radius:20px;
+}
+
+.buttonZerno:hover{
+	box-shadow:0 0 30px rgba(0,0,0,0.5);
+	background-color: rgba(144, 238,144, 0.3);
+}
+
+.buttonUslugi{
+	width:200px;
+	height:45px;
+	box-shadow:0 0 10px rgba(0,0,0,0.5);
+	margin-left:400px;
+	margin-top:-45px;
+	font-size:24px;
+	padding-top:1px;
+	border-radius:20px;
+}
+
+.buttonUslugi:hover{
+	box-shadow:0 0 30px rgba(0,0,0,0.5);
+	background-color: rgba(144, 238,144, 0.3);
+}
+
+.contact{
+	font-size:40px;
+	margin-top:40px;
+}
+
+.vids{
+	background-color: rgba(255, 255,255, 1.0);
+	 border-radius:20px;
+}
+.vids:hover{
+	background-color: rgba(200, 200,200, 1.0);
+}
+
+
+.mainTovar{
+}
+.mainTovar:hover{
+     background-color: rgba(255, 160,122, 0.3);
+     border-radius: 20px;
+     animation: neon2 1.5s ease-in-out infinite alternate;
+}
+
+
+.mainTovar1{
+}
+.mainTovar1:hover{
+     background-color: rgba(60, 179,113, 0.3);
+     border-radius: 20px;
+     animation: neon3 1.5s ease-in-out infinite alternate;
+
+}
+
+.mainTovar2{
+}
+.mainTovar2:hover{
+     background-color: rgba(30,144,255, 0.3);
+     border-radius: 20px;
+     animation: neon4 1.5s ease-in-out infinite alternate;
+}
+
+
+
+@keyframes neon4 {
+  from {
+    box-shadow: 0 0 10px rgba(30,144,255, 0.3), 0 0 20px rgba(30,144,255, 0.3), 0 0 30px rgba(30,144,255, 0.3), 0 0 40px rgba(30,144,255, 0.3), 0 0 70px rgba(30,144,255, 0.3), 0 0 80px rgba(30,144,255, 0.3), 0 0 100px rgba(30,144,255, 0.3), 0 0 150px rgba(30,144,255, 0.3);
+  }
+  to {
+    box-shadow: 0 0 5px rgba(30,144,255, 0.3), 0 0 10px rgba(30,144,255, 0.3), 0 0 15px rgba(30,144,255, 0.3), 0 0 20px rgba(30,144,255, 0.3), 0 0 35px rgba(30,144,255, 0.3), 0 0 40px rgba(30,144,255, 0.3), 0 0 50px rgba(30,144,255, 0.3), 0 0 75px rgba(30,144,255, 0.3);
+  }
+}
+
+@keyframes neon3 {
+  from {
+    box-shadow: 0 0 10px rgba(60, 179,113, 0.3), 0 0 20px rgba(60, 179,113, 0.3), 0 0 30px rgba(60, 179,113, 0.3), 0 0 40px rgba(60, 179,113, 0.3), 0 0 70px rgba(60, 179,113, 0.3), 0 0 80px rgba(60, 179,113, 0.3), 0 0 100px rgba(60, 179,113, 0.3), 0 0 150px rgba(60, 179,113, 0.3);
+  }
+  to {
+    box-shadow: 0 0 5px rgba(60, 179,113, 0.3), 0 0 10px rgba(60, 179,113, 0.3), 0 0 15px rgba(60, 179,113, 0.3), 0 0 20px rgba(60, 179,113, 0.3), 0 0 35px rgba(60, 179,113, 0.3), 0 0 40px rgba(60, 179,113, 0.3), 0 0 50px rgba(60, 179,113, 0.3), 0 0 75px rgba(60, 179,113, 0.3);
+  }
+}
+
+@keyframes neon2 {
+  from {
+    box-shadow: 0 0 10px rgba(255, 160,122, 0.3), 0 0 20px rgba(255, 160,122, 0.3), 0 0 30px rgba(255, 160,122, 0.3), 0 0 40px rgba(255, 160,122, 0.3), 0 0 70px rgba(255, 160,122, 0.3), 0 0 80px rgba(255, 160,122, 0.3), 0 0 100px rgba(255, 160,122, 0.3), 0 0 150px rgba(255, 160,122, 0.3);
+  }
+  to {
+    box-shadow: 0 0 5px rgba(255, 160,122, 0.3), 0 0 10px rgba(255, 160,122, 0.3), 0 0 15px rgba(255, 160,122, 0.3), 0 0 20px rgba(255, 160,122, 0.3), 0 0 35px rgba(255, 160,122, 0.3), 0 0 40px rgba(255, 160,122, 0.3), 0 0 50px rgba(255, 160,122, 0.3), 0 0 75px rgba(255, 160,122, 0.3);
+  }
+}
+
+
+.prodPan{
+	width:900px;
+	height:900px;
+	padding-top: 1px;
+}
+
+.prod1{
+width: 850px;
+height:125px;
+margin-left:25px;
+margin-top:10px;
+padding-top: 1px;
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+background-color: rgba(255, 160,122, 0.3);
+}
+
+.prod{
+width: 850px;
+height:125px;
+margin-left:25px;
+margin-top:10px;
+padding-top: 1px;
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+background-color: rgba(50, 205,50, 0.3);
+}
+
+.titleProd{
+	font-size:30px;
+	text-align: center;
+}
+
+.imP{
+	width:100px;
+	height:100px;s
+	margin-left:10px;
+	margin-top:10px;
+}
+
+.nameP{
+	width:450px;
+	height:25px;
+    font-size:24px;
+	margin-left: 120px;
+	margin-top: -100px;
+}
+
+.descP{
+	width: 450px;
+	height: 70px;
+
+	margin-left: 120px;
+	margin-top: 10px;
+}
+
+.picP{
+	width:100px;
+	height:100px;
+	margin-left: 580px;
+	margin-top: -100px;
+}
+
+.priceP{
+	width:150px;
+	height:100px;
+
+	margin-left: 690px;
+	margin-top: -100px;
+}
+
+
+.contactData{
+		width:900px;
+	height:500px;
+	background:green;
+	padding-top: 1px;
+	background-color: rgba(255, 255,255, 0.5);
+}
+
+.phones{
+	width:350px;
+	height:350px;
+	margin-left:25px;
+	margin-top:25px;
+}
+
+.teritory{
+	width:475px;
+	height:400px;
+	margin-left:400px;
+	margin-top:-350px;
+}
+
+.mainNN{
+		box-shadow:0 0 30px rgba(0,0,0,0.5);
+		padding-top:20px;
+		padding-bottom: 20px;
+
+}
+
+.mainN{
+		box-shadow:0 0 30px rgba(0,0,0,0.5);
+		padding-top:2px;
+		padding-bottom:2px;
+		height:400px;
+
+}

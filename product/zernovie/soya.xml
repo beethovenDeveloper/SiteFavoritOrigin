@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<products>
+  <typeProduct>&#x421;&#x43E;&#x44F;</typeProduct>
+  <imageProduct>image1</imageProduct>
+  <product>
+    <nameProduct>&#x421;&#x43E;&#x44F; "&#x423;&#x441;&#x442;&#x44C;&#x44F;"</nameProduct>
+    <description>&#x423;&#x440;&#x430;&#x436;&#x430;&#x439; 2016 &#x433;&#x43E;&#x434;. &#x426;&#x435;&#x43D;&#x44B; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x44B; &#x437;&#x430; 1 &#x442;&#x43E;&#x43D;&#x43D;&#x443;</description>
+    <priceProduct>0</priceProduct>
+    <titleImage>image2</titleImage>
+    <nalich>no</nalich>
+    <images>
+      <image ln="0"></image>
+      <image ln="0"></image>
+      <image ln="0"></image>
+      <image ln="0"></image>
+    </images>
+  </product>
+  <product>
+    <nameProduct>&#x421;&#x43E;&#x44F; "&#x418;&#x432;&#x430;&#x43D;&#x43A;&#x430;"</nameProduct>
+    <description>&#x423;&#x440;&#x430;&#x436;&#x430;&#x439; 2016 &#x433;&#x43E;&#x434;. &#x426;&#x435;&#x43D;&#x44B; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x44B; &#x437;&#x430; 1 &#x442;&#x43E;&#x43D;&#x43D;&#x443;</description>
+    <priceProduct>0</priceProduct>
+    <titleImage>image2</titleImage>
+    <nalich>no</nalich>
+    <images>
+      <image ln="1"></image>
+      <image ln="1"></image>
+      <image ln="1"></image>
+      <image ln="1"></image>
+    </images>
+  </product>
+  <product>
+    <nameProduct>&#x421;&#x43E;&#x44F; "&#x414;&#x43E;&#x43D;&#x44C;&#x43A;&#x430;"</nameProduct>
+    <description>&#x423;&#x440;&#x430;&#x436;&#x430;&#x439; 2016 &#x433;&#x43E;&#x434;. &#x426;&#x435;&#x43D;&#x44B; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x44B; &#x437;&#x430; 1 &#x442;&#x43E;&#x43D;&#x43D;&#x443;</description>
+    <priceProduct>0</priceProduct>
+    <titleImage>image2</titleImage>
+    <nalich>no</nalich>
+    <images>
+      <image ln="2"></image>
+      <image ln="2"></image>
+      <image ln="2"></image>
+      <image ln="2"></image>
+    </images>
+  </product>
+  <product>
+    <nameProduct>&#x421;&#x43E;&#x44F; "&#x41E;&#x43A;&#x441;&#x430;&#x43D;&#x430;"</nameProduct>
+    <description>&#x423;&#x440;&#x430;&#x436;&#x430;&#x439; 2016 &#x433;&#x43E;&#x434;. &#x426;&#x435;&#x43D;&#x44B; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x44B; &#x437;&#x430; 1 &#x442;&#x43E;&#x43D;&#x43D;&#x443;</description>
+    <priceProduct>0</priceProduct>
+    <titleImage>image</titleImage>
+    <nalich>no</nalich>
+    <images>
+      <image ln="3"></image>
+      <image ln="3"></image>
+      <image ln="3"></image>
+      <image ln="3"></image>
+    </images>
+  </product>
+</products>

@@ -1,0 +1,16 @@
+<users>
+	<user>
+	   <userName>beethoven</userName>
+   	   <password>111111</password>
+   	   <name>База Юрий</name>
+   	   <position>Super admin</position>
+   	   <typeAccess>admin</typeAccess>
+	</user>
+	<user>
+	   <userName>kiska</userName>
+   	   <password>222222</password>
+   	   <name>Сосновчик Рита</name>
+   	   <position>Super pusy</position>
+   	   <typeAccess>pusy</typeAccess>
+	</user>
+</users>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<products>
+  <typeProduct>&#x414;&#x438;&#x441;&#x43A;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x435;</typeProduct>
+  <imageProduct>image1</imageProduct>
+  <product>
+    <nameProduct>&#x414;&#x438;&#x441;&#x43A;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x435;1</nameProduct>
+    <description>&#x414;&#x438;&#x441;&#x43A;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x435;1</description>
+    <priceProduct>0</priceProduct>
+    <titleImage>image2</titleImage>
+    <nalich>yas</nalich>
+    <images>
+      <image ln="0"></image>
+      <image ln="0"></image>
+      <image ln="0"></image>
+      <image ln="0"></image>
+    </images>
+  </product>
+</products>

@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<products>
+  <typeProduct>&#x42F;&#x431;&#x43E;&#x43A;&#x43E;</typeProduct>
+  <imageProduct>image1</imageProduct>
+  <product>
+    <nameProduct>"&#x413;&#x430;&#x43B;&#x43C;&#x430;" I &#x441;&#x43E;&#x440;&#x442;</nameProduct>
+    <description>&#x423;&#x431;&#x43E;&#x440;&#x43A;&#x430; &#x435;&#x449;&#x435; &#x43D;&#x435;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430;&#x441;&#x44C;. &#x41E; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x435; &#x443;&#x431;&#x43E;&#x440;&#x43A;&#x438; &#x43D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x43C; &#x441;&#x430;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x44F;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x426;&#x435;&#x43D;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x437;&#x430; 1 &#x43A;&#x433;.</description>
+    <priceProduct>20</priceProduct>
+    <titleImage>image</titleImage>
+    <nalich>no</nalich>
+    <images>
+      <image/>
+      <image/>
+      <image/>
+      <image/>
+    </images>
+  </product>
+  <product>
+    <nameProduct>"&#x413;&#x430;&#x43B;&#x43C;&#x430;" I&#x406; &#x441;&#x43E;&#x440;&#x442;</nameProduct>
+    <description>&#x423;&#x431;&#x43E;&#x440;&#x43A;&#x430; &#x435;&#x449;&#x435; &#x43D;&#x435;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430;&#x441;&#x44C;. &#x41E; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x435; &#x443;&#x431;&#x43E;&#x440;&#x43A;&#x438; &#x43D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x43C; &#x441;&#x430;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x44F;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x426;&#x435;&#x43D;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x437;&#x430; 1 &#x43A;&#x433;.</description>
+    <priceProduct>20</priceProduct>
+    <titleImage>image</titleImage>
+    <nalich>no</nalich>
+    <images>
+      <image/>
+      <image/>
+      <image/>
+      <image/>
+    </images>
+  </product>
+  <product>
+    <nameProduct>"&#x413;&#x430;&#x43B;&#x43C;&#x430;" I&#x406;&#x406; &#x441;&#x43E;&#x440;&#x442;</nameProduct>
+    <description>&gt;&#x423;&#x431;&#x43E;&#x440;&#x43A;&#x430; &#x435;&#x449;&#x435; &#x43D;&#x435;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430;&#x441;&#x44C;. &#x41E; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x435; &#x443;&#x431;&#x43E;&#x440;&#x43A;&#x438; &#x43D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x43C; &#x441;&#x430;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x44F;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x426;&#x435;&#x43D;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x437;&#x430; 1 &#x43A;&#x433;.</description>
+    <priceProduct>20</priceProduct>
+    <titleImage>image</titleImage>
+    <nalich>no</nalich>
+    <images>
+      <image/>
+      <image/>
+      <image/>
+      <image/>
+    </images>
+  </product>
+  <product>
+    <nameProduct>"&#x413;&#x43E;&#x43B;&#x434;&#x435;&#x43D;" &#x406; &#x441;&#x43E;&#x440;&#x442;</nameProduct>
+    <description>&gt;&#x423;&#x431;&#x43E;&#x440;&#x43A;&#x430; &#x435;&#x449;&#x435; &#x43D;&#x435;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430;&#x441;&#x44C;. &#x41E; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x435; &#x443;&#x431;&#x43E;&#x440;&#x43A;&#x438; &#x43D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x43C; &#x441;&#x430;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x44F;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x426;&#x435;&#x43D;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x437;&#x430; 1 &#x43A;&#x433;.</description>
+    <priceProduct>20</priceProduct>
+    <titleImage>image</titleImage>
+    <nalich>yas</nalich>
+    <images>
+      <image/>
+      <image/>
+      <image/>
+      <image/>
+    </images>
+  </product>
+  <product>
+    <nameProduct>"&#x413;&#x43E;&#x43B;&#x434;&#x435;&#x43D;" &#x406;&#x406; &#x441;&#x43E;&#x440;&#x442;</nameProduct>
+    <description>&gt;&#x423;&#x431;&#x43E;&#x440;&#x43A;&#x430; &#x435;&#x449;&#x435; &#x43D;&#x435;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430;&#x441;&#x44C;. &#x41E; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x435; &#x443;&#x431;&#x43E;&#x440;&#x43A;&#x438; &#x43D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x43C; &#x441;&#x430;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x44F;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x426;&#x435;&#x43D;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x437;&#x430; 1 &#x43A;&#x433;.</description>
+    <priceProduct>20</priceProduct>
+    <titleImage>image</titleImage>
+    <nalich>yas</nalich>
+    <images>
+      <image/>
+      <image/>
+      <image/>
+      <image/>
+    </images>
+  </product>
+  <product>
+    <nameProduct>"&#x413;&#x43E;&#x43B;&#x434;&#x435;&#x43D;" &#x406;&#x406;&#x406; &#x441;&#x43E;&#x440;&#x442;</nameProduct>
+    <description>&gt;&#x423;&#x431;&#x43E;&#x440;&#x43A;&#x430; &#x435;&#x449;&#x435; &#x43D;&#x435;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430;&#x441;&#x44C;. &#x41E; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x435; &#x443;&#x431;&#x43E;&#x440;&#x43A;&#x438; &#x43D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x43C; &#x441;&#x430;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x44F;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x426;&#x435;&#x43D;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x437;&#x430; 1 &#x43A;&#x433;.</description>
+    <priceProduct>20</priceProduct>
+    <titleImage>image</titleImage>
+    <nalich>yas</nalich>
+    <images>
+      <image/>
+      <image/>
+      <image/>
+      <image/>
+    </images>
+  </product>
+  <product>
+    <nameProduct>"&#x414;&#x436;&#x43E;&#x43A;&#x43E;&#x441;&#x442;" &#x406; &#x441;&#x43E;&#x440;&#x442;</nameProduct>
+    <description>&gt;&#x423;&#x431;&#x43E;&#x440;&#x43A;&#x430; &#x435;&#x449;&#x435; &#x43D;&#x435;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430;&#x441;&#x44C;. &#x41E; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x435; &#x443;&#x431;&#x43E;&#x440;&#x43A;&#x438; &#x43D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x43C; &#x441;&#x430;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x44F;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x426;&#x435;&#x43D;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x437;&#x430; 1 &#x43A;&#x433;.</description>
+    <priceProduct>20</priceProduct>
+    <titleImage>image</titleImage>
+    <nalich>yas</nalich>
+    <images>
+      <image/>
+      <image/>
+      <image/>
+      <image/>
+    </images>
+  </product>
+  <product>
+    <nameProduct>"&#x414;&#x436;&#x43E;&#x43A;&#x43E;&#x441;&#x442;" &#x406;&#x406; &#x441;&#x43E;&#x440;&#x442;</nameProduct>
+    <description>&gt;&#x423;&#x431;&#x43E;&#x440;&#x43A;&#x430; &#x435;&#x449;&#x435; &#x43D;&#x435;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430;&#x441;&#x44C;. &#x41E; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x435; &#x443;&#x431;&#x43E;&#x440;&#x43A;&#x438; &#x43D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x43C; &#x441;&#x430;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x44F;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x426;&#x435;&#x43D;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x437;&#x430; 1 &#x43A;&#x433;.</description>
+    <priceProduct>20</priceProduct>
+    <titleImage>image</titleImage>
+    <nalich>yas</nalich>
+    <images>
+      <image/>
+      <image/>
+      <image/>
+      <image/>
+    </images>
+  </product>
+  <product>
+    <nameProduct>"&#x414;&#x436;&#x43E;&#x43A;&#x43E;&#x441;&#x442;" &#x406;&#x406;&#x406; &#x441;&#x43E;&#x440;&#x442;</nameProduct>
+    <description>&gt;&#x423;&#x431;&#x43E;&#x440;&#x43A;&#x430; &#x435;&#x449;&#x435; &#x43D;&#x435;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430;&#x441;&#x44C;. &#x41E; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x435; &#x443;&#x431;&#x43E;&#x440;&#x43A;&#x438; &#x43D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x43E;&#x43C; &#x441;&#x430;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x44F;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x426;&#x435;&#x43D;&#x430; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x437;&#x430; 1 &#x43A;&#x433;.</description>
+    <priceProduct>20</priceProduct>
+    <titleImage>image2</titleImage>
+    <nalich></nalich>
+    <images>
+      <image/>
+      <image/>
+      <image/>
+      <image/>
+    </images>
+  </product>
+</products>
