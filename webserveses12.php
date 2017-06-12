@@ -20,7 +20,10 @@
 		$str="".$fileNews->xpath("//title")[0];
 		if($str==$titN)
 		{
+        if(unlink("news/".$fileNext))
+        {
              $info->infor="true";
+        }
 		}
 	}
 }
