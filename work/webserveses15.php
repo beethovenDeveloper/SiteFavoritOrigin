@@ -1,36 +1,50 @@
 <?php
-   class ListProduct
-   {
-	   public $products;
-   }
-   class Product
-   {
-      public $idProduct;
-	  public $nameProduct;
-	  public $typeProduct;
-	  public $content;
-	  public $titleImage;
-	  public $image1;
-	  public $image2;
-	  public $image3;
-	  public $image4;
-	  public $price;
-	  public $availability;
-	  public $count;
-   }
-   $user="root";
-   $password="111111";
-   $url="localhost";
-   $database="products";
+
+   include 'class/CategoryProduct.php';
+   include 'class/ListProduct.php';
+   include 'class/TypeProduct.php';
+   include 'class/Product.php';
+   include 'database/workdatabase.php';
    
    $list=new ListProduct();
-   $i=0;
    
    $link=mysqli_connect($url,$user,$password,$database) or die("error");
-   
-   $sqlQuery1="select * from product";
-   
-   $result=mysqli_query($link,$sqlQuery1) or die("error query");
+   $arrayType;
+   $sqlQuery2="select * from categoryProduct";
+   $j=0;
+   $result1=mysqli_query($link,$sqlQuery2)or die("error query 1");
+   if($result1)
+   {
+         while($row=mysqli_fetch_row($result1))
+         {
+         	$list->categoryProduct[$j]=getTypeProduct($row[1],$link);
+         	$j++;
+         }
+   }
+   function getTypeProduct($categorys,$links)
+   {
+   	 $categor=new CategoryProduct();
+   	 $categor->nameCategory=$categorys;
+   	 $i=0;
+   	 $sqlQuery1="select * from typeproduct where categoryPr='".$categorys."'";
+   	 $result=mysqli_query($links,$sqlQuery1) or die("error query");
+   	 if($result)
+    	{
+        	while($row=mysqli_fetch_row($result))
+	   			{
+                    $categor->typeProduct[$i]=getListProduct($row[1],$links);
+                    $i++;
+	   			}
+	   	}
+	   	return $categor;
+   }
+   function getListProduct($TypP,$links)
+   {
+   $type=new TypeProduct();
+   $type->nameType=$TypP;
+   $i=0;
+   $sqlQuery1="select * from product where typeProduct='".$TypP."'";
+   $result=mysqli_query($links,$sqlQuery1) or die("error query");
    if($result)
    {
        while($row=mysqli_fetch_row($result))
@@ -48,13 +62,13 @@
 			$product->price=$row[9];
 			$product->availability=$row[10];
 			$product->count=$row[11];
-			$list->products[$i]=$product;
+			$type->products[$i]=$product;
 			$i++;
 	    }
    }
+   return $type;
+   }
    
    mysqli_close($link);
-
-
    echo json_encode($list);
 ?>

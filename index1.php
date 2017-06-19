@@ -38,6 +38,9 @@
                 </div>
             </div> 
         </div>
+       
+
+       <!--contact panel-->
 
         <div class="container contactTitle" style="background-color: rgba(220, 220,220, 0.8);">
             <div class="row">
@@ -54,6 +57,42 @@
                     E-mail Manager@favorit-3.biz.ua
                 </div>
                    
+            </div>
+        </div>
+
+        <!--button panel menu-->
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                    <ul class="nav nav-pills">
+                        <li class="active">
+                            <a href="#">Стартовая страница</a>
+                        </li>
+                        <li>
+                            <a href="alltrueproducts.php?page=1">Продукция</a>
+                        </li>
+                        <li>
+                            <a href="#">Сообщения</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p style="font-size:24px;text-align:center;">Наша продукция</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-mb-4 buttonFruct">
+                   Фрукты
+                   <!-- <div class="buttonFruct">Фрукты</div>
+                            <div class="buttonZerno">Зерновые</div>
+                            <div class="buttonUslugi">Услуги</div>-->
+                </div>
             </div>
         </div>
 
